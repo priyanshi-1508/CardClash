@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646499845701",
+    "project_id": "cardclash-battle",
+    "storage_bucket": "cardclash-battle.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646499845701:android:2eb88d78a14f066e67452c",
+        "android_client_info": {
+          "package_name": "com.cardclash.battle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACey_PMdr7oo8UzOP8FHLIBfxd8DbWW9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
